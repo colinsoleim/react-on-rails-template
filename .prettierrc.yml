@@ -1,0 +1,4 @@
+rubySingleQuote: false
+trailingComma: "es5"
+rubyToProc: true
+printWidth: 120
