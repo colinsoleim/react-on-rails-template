@@ -18,4 +18,4 @@
 Application is hosted on Heroku.
 
 ## Notes
-- Deployments that require database migrations must run `heroku run rake db:migrate -a app-name` where app-name is the name of the CrowdPleaser app on Heroku.
+- Deployments that require database migrations must run `heroku run rake db:migrate -a app-name` where app-name is the name of the application on Heroku.
