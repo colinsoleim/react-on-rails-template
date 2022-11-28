@@ -7,9 +7,7 @@
 
 ## Installation (Local)
 - `bundle install`
-- `rake db:create`
-- `rake db:migrate`
-- `rake db:seed`
+- `rake db:{create,migrate,seed}`
 - `bundle exec rails webpacker:install`
 - `yarn install`
 - `rails s`
